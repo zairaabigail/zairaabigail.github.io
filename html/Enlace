@@ -1,0 +1,45 @@
+<!--
+Facultad de Arquitectura
+Diseño Gráfico
+Diseño de Interfaz de Usuario
+Zaira Abigail Benítez Benavides
+-->
+
+<html>
+    <head>
+        <title>Mi primera página web</title>
+    </head>
+    <body>
+        <header>
+            <h1>Zaira Abigail Benítez Benavides</h1>
+        </header>
+        <nav></nav>
+        <mai>
+            <section>
+                <h2>¿Quién soy?</h2>
+                <p>Soy una estudiante de <b>diseño gráfico</b> en la <mark>BUAP</mark>, tengo 21 años de edad</p>
+            </section>
+            <section>
+                <h2>Mi familia</h2>
+                <p>Tengo madre, <del>padre</del> y soy la hija mayor de <em>tres hermanas</em></p>
+            </section>
+            <section>
+                <h2>Mis Hobbies</h2>
+                <p></p>
+            </section>
+            <section>
+                <h2>Cantar</h2>
+                <p>Adoror cantar desde que tengo memoria, canto<sup>1</sup> canciones de todo tipo de <mark>géneros musicales</mark> e idiomas</p>
+            </section>
+            <section>
+                <h2>Dibujar</h2>
+                <p>También llevo dibujando desde una corta edad, adoro el estilo digital y trabajo en <i>mejorar</i> ese ámbito</p>
+            </section>
+            <section>
+                <h2>Animar</h2>
+                <p>He hecho animación de vídeos<sup>2</sup>  desde los <em>12 años</em> y verdaderemnete es algo que disfruto y hago hasta la <del>actualidad</del></p>
+            </section>
+        </mai>
+        <footer></footer>
+    </body>
+</html>
